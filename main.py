@@ -3,7 +3,7 @@ l=[]
 p=input("Enter number of elements you want to store in a list ")
 p=int(p)
 for i in range(p):
-  q=input("Enter element")
+  q=input("Enter your element ")
   l.append(q)
 #p=len(l)
 for i in range(p):
